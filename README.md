@@ -5,6 +5,7 @@ Modeling and analyzing how a combination of environmental, behavioral, and acade
 
 ## Description of Dataset
 Link to dataset: https://www.kaggle.com/datasets/grandmaster07/student-exam-performance-dataset-analysis
+
 The student exam performance dataset shows the environmental, lifestyle, and academic factors of students as well as their exam performance. The dataset contains 20 variables including aspects like attendance, parental involvement, school type, gender, tutoring sessions, and internet access. Variables are numeric, categorical, and boolean. 
 Size: 6607 rows and 20 columns.
 
