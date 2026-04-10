@@ -12,7 +12,7 @@ Size: 6607 rows and 20 columns.
 Variables: hours studied, attendance, parental involvement, access to resources, extracurricular activities, sleep hours, previous scores, motivation level, internet access, tutoring sessions, family income, teacher quality, school type, peer influence, physical activity, learning disabilities, parental education level, distance from home, gender, exam score.
 
 ## Porject Objectives 
-- Clean the target dataset
+- Clean the student exam performance dataset
 - Identify and visualize the features that influence students' overall academic performance.
 - Use regression to predict student exam scores based on the most influencial features.
 - Use classification techniques (K-nearest neighbors, decision trees) to predict the school type (private or private) of students.
